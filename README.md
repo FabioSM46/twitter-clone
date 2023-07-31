@@ -1,28 +1,31 @@
-# Create T3 App
+# Twitter Clone App
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+This is a Twitter clone built using the T3 stack, a powerful combination of Next.js, TypeScript, tRPC, Prisma, Tailwind CSS, and NextAuth.js. The app allows users to post tweets, follow other users, and engage in social networking just like on Twitter.
 
-## What's next? How do I make an app with this?
+## Features
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+- Post tweets and share your thoughts with the world.
+- Follow your favorite users and stay updated with their tweets.
+- Like and comment on tweets to show your appreciation or engage in conversations.
+- User-friendly interface for a smooth user experience.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+# Built With
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+The Twitter Clone app is built using the [T3 stack](https://create.t3.gg/), which includes the following technologies:
 
-## Learn More
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [tRPC](https://trpc.io/)
+- [Prisma](https://www.prisma.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [NextAuth.js](https://next-auth.js.org/)
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+All credits go to Web Dev Simplified, who introduced and provided excellent tutorials and resources on building web applications using the T3 stack.
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+# License
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+This project is licensed under the MIT License. See the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) file for details.
 
-## How do I deploy this?
+# Acknowledgments
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) - Thank you for introducing and providing fantastic tutorials and resources on building web applications using the T3 stack.
